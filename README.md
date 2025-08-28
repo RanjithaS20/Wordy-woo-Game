@@ -42,7 +42,7 @@ Tool:
 Visual Studio Code
 
 Screenshots:
-1.![Homepage](home.png)
-2.
-3.
-4.
+![Homepage](home.png)
+![Levels](Levels.png)
+![Easylevel](easy.png)
+![Hardlevel](hard.png)
