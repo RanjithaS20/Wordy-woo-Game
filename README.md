@@ -28,7 +28,7 @@ Level.html
 Easy.html
 Hard.html
 
-Technologies Used:
+**Technologies Used:**
 
 HTML
 
@@ -38,10 +38,10 @@ JavaScript
 
 No installation or dependencies are required. Just open the HTML file in your browser and play.
 
-Tool:
+**Tool:**
 Visual Studio Code
 
-Screenshots:
+**Screenshots:**
 ![Homepage](home.png)
 ![Levels](Levels.png)
 ![Easylevel](easy.png)
