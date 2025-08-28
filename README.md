@@ -1,8 +1,8 @@
-Wordy-Woo-Game:
+**Wordy-Woo-Game:**
 
 This is a simple Wordy-woo-game built using HTML, CSS, and JavaScript. The player tries to guess a hidden word by choosing one letter at a time. The game ends when the player either guesses the word correctly or runs out of allowed attempts.
 
-Features:
+**Features:**
 
 Fully playable in the browser
 
@@ -12,7 +12,7 @@ Win and lose messages
 
 Simple and responsive design
 
-How to Use:
+**How to Use:**
 
 Download or clone this repository.
 
@@ -22,7 +22,7 @@ Start guessing letters to reveal the hidden word.
 
 You win if you guess all the letters correctly before the lives are completed.
 
-Project Files:
+**Project Files:**
 Home.html
 Level.html
 Easy.html
