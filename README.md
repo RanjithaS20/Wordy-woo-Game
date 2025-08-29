@@ -1,3 +1,5 @@
+**Project Title:**Interactive Word-Guessing Game: A Digital Implementation of wordy Woo.
+
 **Wordy-Woo-Game:**
 
 This is a simple Wordy-woo-game built using HTML, CSS, and JavaScript. The player tries to guess a hidden word by choosing one letter at a time. The game ends when the player either guesses the word correctly or runs out of allowed attempts.
