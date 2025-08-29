@@ -1,4 +1,4 @@
-**Project Title:**Interactive Word-Guessing Game: A Digital Implementation of wordy Woo.
+**Project Title:** Interactive Word-Guessing Game: A Digital Implementation of wordy Woo.
 
 **Wordy-Woo-Game:**
 
