@@ -25,10 +25,10 @@ Start guessing letters to reveal the hidden word.
 You win if you guess all the letters correctly before the lives are completed.
 
 **Project Files:**
-Home.html
-Level.html
-Easy.html
-Hard.html
+Home.html,
+Level.html,
+Easy.html,
+Hard.html.
 
 **Technologies Used:**
 
