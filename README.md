@@ -45,6 +45,6 @@ Visual Studio Code
 
 **Screenshots:**
 ![Homepage](home.png)
-![Levels](Levels.png)
+![Levels](Level.png)
 ![Easylevel](easy.png)
 ![Hardlevel](hard.png)
